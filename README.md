@@ -73,6 +73,7 @@ These APIs are the bedrock of modern fintech, providing the essential connectivi
 This category covers the core function of finance: moving money. These APIs range from simple online payment acceptance to complex, programmatic control over bank transfers and payment operations.
 
   * **[Coinbase Commerce API](https://commerce.coinbase.com/)**: An API for merchants to easily accept a wide range of cryptocurrency payments.
+  * **[Coinnect](https://coinnect.bot/docs)**: An open money transfer routing API that finds the cheapest multi-hop path across fiat, crypto, and P2P networks using Dijkstra's algorithm over 29K+ live edges from 80+ adapters.
   * **[Increase](https://increase.com/)**: A powerful bank API for companies to automate payments and manage money programmatically via a direct, FDIC-insured bank partner.
   * **[Modern Treasury](https://www.moderntreasury.com/)**: An OS for money movement, providing a single API to manage payments, reconciliation, and ledgering across multiple bank partners.
   * **[Moov](https://moov.io/)**: An open-source platform for embedding payment functionality, providing modular, developer-friendly tools for ACH, card processing, and wallet transfers.
