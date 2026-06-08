@@ -6,12 +6,17 @@ The first wave of fintech was about unbundling the bank. The new wave is about r
 
 A "hidden gem" in this context isn't just an unknown API. It's a tool that offers a distinct advantage. It could be an API with a hyper-specialized focus (like AI-driven transaction enrichment), a Banking-as-a-Service (BaaS) platform with a stellar developer experience, a tool that unlocks a completely new data source (like real-time payroll), or a service with a disruptive pricing model that enables new use cases. This list is for developers, founders, and product managers looking to discover those game-changing tools.
 
-> Once you’ve identified a promising API from this list, the real work begins: exploring, testing, and integrating it into your application. To streamline this entire workflow, a tool like [Apidog](https://apidog.com) becomes essential.
+> Building AI apps with Claude Code, Codex, or your favorite API client?
 >
+> Try **[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-text)**, an OpenAI-compatible gateway and cheaper OpenRouter alternative. Use one API key, prepaid credits, and top models while cutting AI model costs by up to 50%.
 
-[![](https://assets.apidog.com/static/www/assets/images/v2/main-interface-dark.webp)](https://apidog.com)
+</br>
 
-> Positioned as a collaborative, all-in-one platform, Apidog consolidates the entire API lifecycle, effectively replacing the need to juggle separate tools like Postman for testing, Swagger for documentation, and Mockoon for mocking. For a fintech developer, this means you can take a spec from a service like Ntropy or Modern Treasury, instantly generate interactive documentation, and begin debugging requests and responses. More powerfully, you can create sophisticated mock servers that return realistic financial data, allowing your frontend and backend teams to build in parallel long before your production keys are live. By unifying design, documentation, testing, and mocking in a single environment, Apidog helps you and your team evaluate and integrate these powerful fintech APIs faster and more efficiently.
+[<img width="1490" height="915" alt="Blackmagic AI OpenAI-compatible gateway dashboard" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-image)
+
+</br>
+
+> **[Compare model pricing](https://blackmagic.engineering/models?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-pricing)**
 
 -----
 
