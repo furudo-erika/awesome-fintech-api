@@ -153,6 +153,7 @@ A collection of specialized APIs that don't fit neatly into the categories above
 
   * **[Enode](https://enode.io/)**: API for connecting to energy hardware like EVs, chargers, and solar inverters. A fintech-adjacent gem for building green financing and energy management products.
   * **[ValidFi](https://www.validfi.com/)**: A data platform providing insights and verification, often used in lending and underwriting contexts to validate business data.
+  * **[Superhighway M&A Research Agent](https://superhighway.walls.sh/guides/ma-research-agent)**: A pay-per-call (no signup) Python agent that researches comparable M&A transactions, deal multiples, potential acquirers, and recent deal activity via live web search, generating structured M&A intelligence briefs for corporate development teams, PE analysts, and investment bankers.
 
 -----
 
