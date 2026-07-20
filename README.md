@@ -119,6 +119,7 @@ For developers building on the decentralized web, these APIs provide essential i
 
   * **[Covalent API](https://www.covalenthq.com/)**: Provides a unified API to access rich, granular, and historical data from dozens of leading blockchains.
   * **[Etherscan API](https://etherscan.io/apis)**: Provides developers with direct, free access to Ethereum's leading block explorer data and services.
+  * **[AgentServices](https://agentservices.to)**: A crypto and market data API platform with 54 services and 97 endpoints. Uses the x402 protocol for pay-per-call micropayments on Base (USDC), and includes an MCP server with 37 tools for AI agents.
   * **[Moralis API](https://moralis.io/)**: A Web3 development platform providing powerful APIs for building dApps on various blockchains, including real-time alerts.
 
 ### Commerce & Accounting Data
