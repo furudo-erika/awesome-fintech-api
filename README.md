@@ -129,6 +129,8 @@ These APIs provide a standardized way to connect to the systems that businesses 
   * **[Merge](https://merge.dev/)**: A unified API for B2B integrations, including accounting, HRIS, and project management platforms.
   * **[Rutter](https://www.rutter.com/)**: A universal e-commerce API that allows you to read and write data from platforms like Shopify, Amazon, Stripe, and others.
 
+  * **[Svensk Skatte-API](https://skatteapi.gracestack.se)**: A REST API for Swedish tax calculations, covering ISK (investment savings tax), VAT (moms), income tax, and employer social contributions. Designed for fintech apps, accounting tools, and ERP integrations needing programmatic access to Swedish tax computations. Free tier available with 30 req/min, Pro tier at 99kr/mån.
+
 ### Card-Issuing & Card-Linking
 
 Go beyond just accepting payments. These APIs allow you to create your own virtual or physical payment cards or build unique experiences on top of existing card transactions.
