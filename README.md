@@ -144,6 +144,7 @@ These "Brokerage-as-a-Service" APIs handle the regulatory and technical complexi
 
   * **[Alpaca](https://alpaca.markets/)**: A developer-first, commission-free stock brokerage API that allows you to build trading apps, robo-advisors, and brokerage services.
   * **[DriveWealth](https://www.drivewealth.com/)**: An API-driven brokerage platform that enables partners to offer real-time fractional share trading to a global audience.
+  * **[FilingFirehose](https://filingfirehose.com/)**: SEC EDGAR risk-scoring API for any US-listed company — 8-K body-text parsing, dilution / restatement / officer-departure detection, cyber-incident tracking, plus a hosted MCP endpoint at `https://filingfirehose.com/mcp` for agentic workflows.
   * **[Finchat](https://finchat.io/)**: Provides access to deep financial data on public companies through an AI-powered chatbot and API.
   * **[Snaptrade](https://snaptrade.com/)**: An API to connect any brokerage account to any application, enabling trading, data aggregation, and portfolio analysis.
 
