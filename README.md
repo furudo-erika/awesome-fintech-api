@@ -65,6 +65,7 @@ These APIs are the bedrock of modern fintech, providing the essential connectivi
   * **[Mono](https://mono.co/)**: Open banking and data API for businesses and developers in Africa.
   * **[MX](https://www.mx.com/)**: Helps organizations connect to and analyze financial data, offering aggregation, enrichment, mobile banking SDKs, and data insights.
   * **[Okra](https://okra.ng/)**: Connects to any bank in Nigeria, providing secure access to financial data and payments.
+  * **[Open Banking Access](https://open-banking.io/)**: A cert-free EU open banking API providing account information services without requiring an eIDAS (QWAC) certificate — a disruptive pricing model at €3/month that eliminates the €2,000–10,000/year certificate barrier for indie developers and small builders.
   * **[Plaid](https://plaid.com/)**: The industry leader for connecting apps to users' bank accounts in North America and Europe.
   * **[Salt Edge](https://www.saltedge.com/)**: Global open banking API that provides account information and payment initiation services, with strong coverage in Europe and beyond.
   * **[Stitch](https://stitch.money/)**: A financial data and payments API focused on streamlining bank-to-bank payments and data access across the African continent.
