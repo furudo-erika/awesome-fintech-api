@@ -151,6 +151,7 @@ These "Brokerage-as-a-Service" APIs handle the regulatory and technical complexi
 
 A collection of specialized APIs that don't fit neatly into the categories above but offer tremendous value for specific use cases, from green finance to specialized data verification.
 
+  * **[BatchData](https://batchdata.io/)**: A U.S. property and owner-contact API covering 169 million+ U.S. parcels, used for property search, skip tracing, valuations, and address verification.
   * **[Enode](https://enode.io/)**: API for connecting to energy hardware like EVs, chargers, and solar inverters. A fintech-adjacent gem for building green financing and energy management products.
   * **[ValidFi](https://www.validfi.com/)**: A data platform providing insights and verification, often used in lending and underwriting contexts to validate business data.
 
